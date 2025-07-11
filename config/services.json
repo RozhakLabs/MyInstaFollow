@@ -1,0 +1,29 @@
+{
+    "settings": {
+        "base_url": "https://myinstafollow.com",
+        "request_timeout": 30
+    },
+    "services": {
+        "likes": {
+            "enabled": false,
+            "service_id": "6903",
+            "post_link": "https://www.instagram.com/p/CXyPwLSJCtl/",
+            "quantity": "20",
+            "interval_hours": 1
+        },
+        "views": {
+            "enabled": true,
+            "service_id": "5882",
+            "reel_link": "https://www.instagram.com/reel/DL5UnLHzNgN/",
+            "quantity": "101",
+            "interval_hours": 4
+        },
+        "followers": {
+            "enabled": false,
+            "service_id": "6969",
+            "username": "rozhak_official",
+            "quantity": "10",
+            "interval_hours": 24
+        }
+    }
+}

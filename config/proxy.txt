@@ -1,0 +1,10 @@
+# Format proxy yang didukung:
+# 1. ip:port
+# 2. ip:port:username:password
+# 3. http://ip:port
+# 4. http://username:password@ip:port
+
+# Baris yang dimulai dengan # atau baris kosong akan diabaikan.
+
+# Contoh (ganti dengan proxy yang valid):
+# 192.138.24.28:8080
