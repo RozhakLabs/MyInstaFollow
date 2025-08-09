@@ -27,7 +27,7 @@ Ikuti instruksi berikut untuk menyiapkan dan menjalankan proyek di mesin lokal A
     Untuk mendapatkan salinan kode sumber, lakukan _clone_ repositori dengan perintah berikut di terminal Anda:
    
    ```bash
-   git clone https://github.com/RozhakXD/MyInstaFollow.git
+   git clone https://github.com/RozhakLabs/MyInstaFollow.git
    cd MyInstaFollow
    ```
 
@@ -86,5 +86,6 @@ Untuk menghentikan tool, tekan `Ctrl + Z`.
 Tool ini dibuat untuk tujuan edukasi semata. Penggunaan _tool_ otomasi mungkin melanggar ketentuan layanan dari platform yang berinteraksi dengannya. Pengembang tidak bertanggung jawab atas segala konsekuensi dari penggunaan _tool_ ini, seperti penangguhan akun atau penalti lainnya. Gunakan dengan risiko Anda sendiri.
 
 ## 📝 License
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
